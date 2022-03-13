@@ -1,0 +1,13 @@
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\bin\Debug\netcoreapp3.1\oc_laba2.exe
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\bin\Debug\netcoreapp3.1\oc_laba2.deps.json
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\bin\Debug\netcoreapp3.1\oc_laba2.runtimeconfig.json
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\bin\Debug\netcoreapp3.1\oc_laba2.runtimeconfig.dev.json
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\bin\Debug\netcoreapp3.1\oc_laba2.dll
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\bin\Debug\netcoreapp3.1\oc_laba2.pdb
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.csprojAssemblyReference.cache
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.AssemblyInfoInputs.cache
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.AssemblyInfo.cs
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.csproj.CoreCompileInputs.cache
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.dll
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.pdb
+C:\Users\katet\source\repos\oc_laba2\oc_laba2\obj\Debug\netcoreapp3.1\oc_laba2.genruntimeconfig.cache
